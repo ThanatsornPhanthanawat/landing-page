@@ -13,7 +13,7 @@ img {
 .hero-container {
     background-color: #1F2937;
     margin: 0;
-    padding: 0 150px;
+    padding: 0 230px;
 }
 
 .header {
@@ -121,7 +121,7 @@ button {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
-    padding: 110px 360px;
+    padding: 110px 440px;
     margin-bottom: 80px;
 }
 
@@ -152,11 +152,8 @@ button {
 
 .invitation {
     display: flex;
-    gap: 200px;
+    gap: 300px;
 }
-
-
-
 
 .btn-signup button {
     padding: 10px 35px;
